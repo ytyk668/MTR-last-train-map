@@ -1,0 +1,406 @@
+{
+    "1": {
+        "name": "中環",
+        "class": "mix"
+    },
+    "2": {
+        "name": "金鐘",
+        "class": "tsuen-wan"
+    },
+    "3": {
+        "name": "尖沙咀",
+        "class": "tsuen-wan"
+    },
+    "4": {
+        "name": "佐敦",
+        "class": "tsuen-wan"
+    },
+    "5": {
+        "name": "油麻地",
+        "class": "mix"
+    },
+    "6": {
+        "name": "旺角",
+        "class": "mix"
+    },
+    "7": {
+        "name": "石硤尾",
+        "class": "kwun-tong"
+    },
+    "8": {
+        "name": "九龍塘",
+        "class": "kwun-tong"
+    },
+    "9": {
+        "name": "樂富",
+        "class": "kwun-tong"
+    },
+    "10": {
+        "name": "黃大仙",
+        "class": "kwun-tong"
+    },
+    "11": {
+        "name": "鑽石山",
+        "class": "kwun-tong"
+    },
+    "12": {
+        "name": "彩虹",
+        "class": "kwun-tong"
+    },
+    "13": {
+        "name": "九龍灣",
+        "class": "kwun-tong"
+    },
+    "14": {
+        "name": "牛頭角",
+        "class": "kwun-tong"
+    },
+    "15": {
+        "name": "觀塘",
+        "class": "kwun-tong"
+    },
+    "16": {
+        "name": "太子",
+        "class": "mix"
+    },
+    "17": {
+        "name": "深水埗",
+        "class": "tsuen-wan"
+    },
+    "18": {
+        "name": "長沙灣",
+        "class": "tsuen-wan"
+    },
+    "19": {
+        "name": "荔枝角",
+        "class": "tsuen-wan"
+    },
+    "20": {
+        "name": "美孚",
+        "class": "mix"
+    },
+    "21": {
+        "name": "荔景",
+        "class": "mix"
+    },
+    "22": {
+        "name": "葵芳",
+        "class": "tsuen-wan"
+    },
+    "23": {
+        "name": "葵興",
+        "class": "tsuen-wan"
+    },
+    "24": {
+        "name": "大窩口",
+        "class": "tsuen-wan"
+    },
+    "25": {
+        "name": "荃灣",
+        "class": "tsuen-wan"
+    },
+    "26": {
+        "name": "上環",
+        "class": "island"
+    },
+    "27": {
+        "name": "灣仔",
+        "class": "island"
+    },
+    "28": {
+        "name": "銅鑼灣",
+        "class": "island"
+    },
+    "29": {
+        "name": "天后",
+        "class": "island"
+    },
+    "30": {
+        "name": "炮台山",
+        "class": "island"
+    },
+    "31": {
+        "name": "北角",
+        "class": "mix"
+    },
+    "32": {
+        "name": "鰂魚涌",
+        "class": "mix"
+    },
+    "33": {
+        "name": "太古",
+        "class": "island"
+    },
+    "34": {
+        "name": "西灣河",
+        "class": "island"
+    },
+    "35": {
+        "name": "筲箕灣",
+        "class": "island"
+    },
+    "36": {
+        "name": "杏花邨",
+        "class": "island"
+    },
+    "37": {
+        "name": "柴灣",
+        "class": "island"
+    },
+    "38": {
+        "name": "藍田",
+        "class": "kwun-tong"
+    },
+    "39": {
+        "name": "香港",
+        "class": "tung-chung"
+    },
+    "40": {
+        "name": "九龍",
+        "class": "tung-chung"
+    },
+    "41": {
+        "name": "奧運",
+        "class": "tung-chung"
+    },
+    "42": {
+        "name": "青衣",
+        "class": "tung-chung"
+    },
+    "43": {
+        "name": "東涌",
+        "class": "tung-chung"
+    },
+    "44": {
+        "name": "香港",
+        "class": "airport"
+    },
+    "45": {
+        "name": "九龍",
+        "class": "airport"
+    },
+    "46": {
+        "name": "青衣",
+        "class": "airport"
+    },
+    "47": {
+        "name": "機場",
+        "class": "airport"
+    },
+    "48": {
+        "name": "油塘",
+        "class": "mix"
+    },
+    "49": {
+        "name": "調景嶺",
+        "class": "mix"
+    },
+    "50": {
+        "name": "將軍澳",
+        "class": "tko"
+    },
+    "51": {
+        "name": "坑口",
+        "class": "tko"
+    },
+    "52": {
+        "name": "寶琳",
+        "class": "tko"
+    },
+    "53": {
+        "name": "南昌",
+        "class": "mix"
+    },
+    "54": {
+        "name": "欣澳",
+        "class": "mix"
+    },
+    "55": {
+        "name": "迪士尼",
+        "class": "disneyland"
+    },
+    "56": {
+        "name": "博覽館",
+        "class": "airport"
+    },
+    "57": {
+        "name": "康城",
+        "class": "tko"
+    },
+    "64": {
+        "name": "紅磡",
+        "class": "mix"
+    },
+    "65": {
+        "name": "旺角東",
+        "class": "east-rail"
+    },
+    "67": {
+        "name": "大圍",
+        "class": "mix"
+    },
+    "68": {
+        "name": "沙田",
+        "class": "east-rail"
+    },
+    "69": {
+        "name": "火炭",
+        "class": "east-rail"
+    },
+    "70": {
+        "name": "馬場",
+        "class": "east-rail"
+    },
+    "71": {
+        "name": "大學",
+        "class": "east-rail"
+    },
+    "72": {
+        "name": "大埔墟",
+        "class": "east-rail"
+    },
+    "73": {
+        "name": "太和",
+        "class": "east-rail"
+    },
+    "74": {
+        "name": "粉嶺",
+        "class": "east-rail"
+    },
+    "75": {
+        "name": "上水",
+        "class": "east-rail"
+    },
+    "76": {
+        "name": "羅湖",
+        "class": "east-rail"
+    },
+    "78": {
+        "name": "落馬洲",
+        "class": "east-rail"
+    },
+    "80": {
+        "name": "尖東",
+        "class": "tuen-ma"
+    },
+    "81": {
+        "name": "西營盤",
+        "class": "island"
+    },
+    "82": {
+        "name": "香港大學",
+        "class": "island"
+    },
+    "83": {
+        "name": "堅尼地城",
+        "class": "island"
+    },
+    "84": {
+        "name": "何文田",
+        "class": "mix"
+    },
+    "85": {
+        "name": "黃埔",
+        "class": "kwun-tong"
+    },
+    "86": {
+        "name": "海洋公園",
+        "class": "south-island"
+    },
+    "87": {
+        "name": "黃竹坑",
+        "class": "south-island"
+    },
+    "88": {
+        "name": "利東",
+        "class": "south-island"
+    },
+    "89": {
+        "name": "海怡半島",
+        "class": "south-island"
+    },
+    "90": {
+        "name": "顯徑",
+        "class": "tuen-ma"
+    },
+    "91": {
+        "name": "啟德",
+        "class": "tuen-ma"
+    },
+    "92": {
+        "name": "宋皇臺",
+        "class": "tuen-ma"
+    },
+    "93": {
+        "name": "土瓜灣",
+        "class": "tuen-ma"
+    },
+    "94": {
+        "name": "會展",
+        "class": "east-rail"
+    },
+    "96": {
+        "name": "車公廟",
+        "class": "tuen-ma"
+    },
+    "97": {
+        "name": "沙田圍",
+        "class": "tuen-ma"
+    },
+    "98": {
+        "name": "第一城",
+        "class": "tuen-ma"
+    },
+    "99": {
+        "name": "石門",
+        "class": "tuen-ma"
+    },
+    "100": {
+        "name": "大水坑",
+        "class": "tuen-ma"
+    },
+    "101": {
+        "name": "恆安",
+        "class": "tuen-ma"
+    },
+    "102": {
+        "name": "馬鞍山",
+        "class": "tuen-ma"
+    },
+    "103": {
+        "name": "烏溪沙",
+        "class": "tuen-ma"
+    },
+    "111": {
+        "name": "柯士甸",
+        "class": "tuen-ma"
+    },
+    "114": {
+        "name": "荃灣西",
+        "class": "tuen-ma"
+    },
+    "115": {
+        "name": "錦上路",
+        "class": "tuen-ma"
+    },
+    "116": {
+        "name": "元朗",
+        "class": "tuen-ma"
+    },
+    "117": {
+        "name": "朗屏",
+        "class": "tuen-ma"
+    },
+    "118": {
+        "name": "天水圍",
+        "class": "tuen-ma"
+    },
+    "119": {
+        "name": "兆康",
+        "class": "tuen-ma"
+    },
+    "120": {
+        "name": "屯門",
+        "class": "tuen-ma"
+    }
+}
