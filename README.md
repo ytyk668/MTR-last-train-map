@@ -1,4 +1,4 @@
-# MTR-last-train-map (time &amp; route)
+# MTR last train map (time &amp; route)
 # 港鐵尾班車時間及路線
 
 visit [ytyk668.github.io](ytyk668.github.io)
