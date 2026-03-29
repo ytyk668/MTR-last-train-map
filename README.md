@@ -6,3 +6,7 @@ This is a React application that provide a interactive web map for MTR (Mass Tra
 visit [ytyk668.github.io](ytyk668.github.io)
 
 interactive web created with React
+
+disclaimer: data up-to Jan 2025
+
+feel free to top up the repo with credit~
