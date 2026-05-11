@@ -89,7 +89,7 @@ function App() {
         點擊以選擇終點站 **TO** selected station
         </span>
         <div id="map">
-          <img src="https://assets.piliapp.com/s3pxy/hk/mtr/20220519-zh.png" width={720} height={720} alt="bg" />
+        {/*<img src="https://assets.piliapp.com/s3pxy/hk/mtr/20220519-zh.png" width={720} height={720} alt="bg" />*/}
           <div id="stations">
             <img style={{ position: "absolute", left: '60px', top:"10px" }} src="https://i.pinimg.com/736x/fc/b2/2a/fcb22a107a2b56cf2aae4e1a1ec26348.jpg" width={80} height={150} alt="arrow" />
             <img style={{ position: "absolute", left: '84px', top:"170px" }} src="https://pngimg.com/uploads/circle/circle_PNG71.png" width={30} height={30} alt="circle" />
